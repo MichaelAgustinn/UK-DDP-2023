@@ -1,18 +1,27 @@
-## Getting Started
+# Ujian Komprehensif - Dasar Dasar Pemrograman 2023
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Repo ini berisi kumpulan **kode program** yang digunakan untuk menyelesaikan soal **Ujian Komprehensif Dasar Dasar Pemrograman Tahun 2023**.
 
-## Folder Structure
+## 📌 Deskripsi
 
-The workspace contains two folders by default, where:
+- Dibuat sebagai bagian untuk latihan **Ujian Komprehensif Dasar-Dasar Pemrograman**.
+- Berisi beberapa solusi kode sesuai dengan soal yang diberikan pada ujian.
+- Ditulis dengan bahasa pemrograman: **Java** (bisa diganti sesuai bahasanya).
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📂 Struktur Repository
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+├── src/ # Kode sumber program
+│ ├── Nomor1.java
+│ ├── Nomor2.java
+│ ├── Nomor3.java
+│ ├── Nomor4.java
+│ ├── Nomor5.java
+│ ├── Nomor6.java
+│ ├── Nomor7.java
+│ ├── Nomor8.java
+│ └── Nomor9.java
+│
+└── soal/ # File soal ujian
+  ├── Gambar1.jpeg
+  ├── Gambar2.jpeg
+  └── Gambar3.jpeg

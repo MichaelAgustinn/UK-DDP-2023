@@ -10,5 +10,5 @@ Repo ini berisi kumpulan **kode program** yang digunakan untuk menyelesaikan soa
 
 ## 📂 Struktur Repository
 
-- folder code **/src**
-- folder soal **/soal**
+- folder code **"/src"**
+- folder soal **"/soal"**

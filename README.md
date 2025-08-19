@@ -10,5 +10,6 @@ Repo ini berisi kumpulan **kode program** yang digunakan untuk menyelesaikan soa
 
 ## 📂 Struktur Repository
 
-- folder code **"/src"**
+- folder code **"/src"** //forget about file Nomor9.java
 - folder soal **"/soal"**
+
